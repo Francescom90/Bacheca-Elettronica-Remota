@@ -1,7 +1,8 @@
-# Bacheca-Elettronica-Remota
+#Tesina:
+Bacheca Elettronica Remota
 
-Tesina:  Bacheca Elettronica Remota
-Sistema Operativo: Unix
+#Sistema Operativo:
+Unix
 
 Realizzazione di una bacheca elettronica residente su un server. Una
 bacheca elettronica e' un servizio che permette ad ogni utente autorizzato
